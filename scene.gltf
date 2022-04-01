@@ -3697,15 +3697,15 @@
   "buffers": [
     {
       "byteLength": 748048,
-      "uri": "scene.bin"
+      "uri": "https://raw.githubusercontent.com/gugalao/AR-project/main/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/shrekshirt_S_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/gugalao/AR-project/main/textures/Shrek_baseColor.jpeg"
     },
     {
-      "uri": "textures/Shrek_baseColor.jpeg"
+      "uri": "https://raw.githubusercontent.com/gugalao/AR-project/main/textures/shrekshirt_S_baseColor.jpeg"
     }
   ],
   "materials": [
